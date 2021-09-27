@@ -1,0 +1,60 @@
+.bal {
+  display: inline-block;
+  margin: 10px auto;
+}
+.income {
+  border: 2px solid black;
+  padding: 1px 35px;
+  color: green;
+  border-radius: 10px;
+  margin-right: 10px;
+  font-weight: bolder;
+  display: inline-block;
+}
+.income {
+  border: 2px solid black;
+  padding: 1px 35px;
+  color: green;
+  border-radius: 10px;
+  margin-right: 10px;
+  font-weight: bolder;
+  display: inline-block;
+}
+.expense {
+  border: 2px solid black;
+  padding: 1px 35px;
+  color: red;
+  border-radius: 10px;
+  font-weight: bolder;
+  display: inline-block;
+}
+.btn {
+  color: blue;
+  font-weight: bolder;
+  margin-left: 10px;
+  padding: 5px 15px;
+  border-radius: 10px;
+}
+.btn:hover {
+  background-color: red;
+}
+.btn1 {
+  background-color: seagreen;
+  font-weight: bolder;
+  padding: 5px 20px;
+  color: white;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+.btn2 {
+  background-color: rgb(252, 137, 84);
+  font-weight: bolder;
+  padding: 5px 20px;
+  color: white;
+}
+.maindiv {
+  margin: 10px auto;
+  text-align: center;
+  height: 700px;
+  width: 100%;
+}
